@@ -9,7 +9,9 @@
 
 ## 🚀 Sobre mim
 
-Sou movido por dados, inovação e impacto real. Com uma base sólida em finanças e processos gerenciais, estou expandindo meu conhecimento em IA e banco de dados para transformar desafios empresariais em oportunidades inteligentes.
+Analista de Dados e Processos com experiência em empresas de médio e grande porte, atuando na transformação de dados em decisões estratégicas para áreas operacionais e de gestão. Forte domínio de Power BI, SQL, Python e Excel avançado, com foco em eficiência, produtividade, redução de custos e criação de dashboards de alto impacto.
+Possuo visão integrada entre dados e processos, facilidade para traduzir análises técnicas em insights acionáveis e experiência no treinamento de equipes para uso das informações no dia a dia. Ao longo da carreira, entreguei soluções que ampliaram a visibilidade dos dados e aceleraram a tomada de decisão.
+Nos últimos anos, investi fortemente em requalificação técnica e formação acadêmica, cursando Bacharelado em Banco de Dados pela PUCRS e ampliando minha atuação prática em analytics e automação. Busco oportunidades em que possa gerar valor real por meio de dados, melhoria contínua e apoio estratégico ao negócio.
 
 ---
 
