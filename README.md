@@ -60,7 +60,7 @@ Busco oportunidades em que possa gerar valor real por meio de dados, melhoria co
 
 - [LinkedIn](https://www.linkedin.com/in/jeferson-gomes-da-silva-981451254)
 - [email](jefe.gomes@outlook.com)
-- [Cel]((51) 98147-9517)
+- [Whatsapp]( 51 - 98147-9517)
 
 ---
 
