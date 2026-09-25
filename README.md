@@ -1,34 +1,39 @@
 <h1 align="center">👋 Olá, eu sou o Jeferson!</h1>
 
 <p align="center">
-🎓 Técnico em Finanças pelo Senac/RS • 📚 Graduando em BD e IA pela PUCRS  
-💼 Foco em soluções financeiras acessíveis para pequenas empresas  
+🎓 Técnico em Finanças pelo Senac/RS • 📚 Graduando em Banco de Dados e IA pela PUCRS<br>
+💼 Foco em soluções financeiras acessíveis para pequenas empresas
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Analista de Dados e Processos com experiência em empresas de médio e grande porte, atuando na transformação de dados em decisões estratégicas para áreas operacionais e de gestão. Forte domínio de Power BI, SQL, Python e Excel avançado, com foco em eficiência, produtividade, redução de custos e criação de dashboards de alto impacto.
-Possuo visão integrada entre dados e processos, facilidade para traduzir análises técnicas em insights acionáveis e experiência no treinamento de equipes para uso das informações no dia a dia. Ao longo da carreira, entreguei soluções que ampliaram a visibilidade dos dados e aceleraram a tomada de decisão.
-Nos últimos anos, investi fortemente em requalificação técnica e formação acadêmica, cursando Bacharelado em Banco de Dados pela PUCRS e ampliando minha atuação prática em analytics e automação. Busco oportunidades em que possa gerar valor real por meio de dados, melhoria contínua e apoio estratégico ao negócio.
+Analista de Dados e Processos com experiência em empresas de médio e grande porte, atuando na transformação de dados em decisões estratégicas para áreas operacionais e de gestão.
+
+Tenho forte domínio de **Power BI, SQL, Python e Excel avançado**, com foco em eficiência, produtividade, redução de custos e criação de dashboards de alto impacto. Possuo visão integrada entre dados e processos, facilidade para traduzir análises técnicas em insights acionáveis e experiência no treinamento de equipes para o uso das informações no dia a dia.
+
+Ao longo da carreira, entreguei soluções que ampliaram a visibilidade dos dados e aceleraram a tomada de decisão. Nos últimos anos, investi fortemente em requalificação técnica e formação acadêmica, cursando Bacharelado em Banco de Dados pela PUCRS e ampliando minha atuação prática em analytics e automação.
+
+Busco oportunidades em que possa gerar valor real por meio de dados, melhoria contínua e apoio estratégico ao negócio.
 
 ---
 
 ## 🧠 Tecnologias e áreas de interesse
 
-- 📊 Banco de Dados: modelagem, SQL, análise de dados  
-- 🤖 Inteligência Artificial: machine learning, automações  
-- 🧾 Processos Gerenciais: planejamento, controle financeiro  
-- 💰 Finanças: gestão acessível para micro e pequenas empresas  
+- 📊 **Banco de Dados:** modelagem, SQL, análise de dados
+- 🤖 **Inteligência Artificial:** machine learning, automações
+- 🧾 **Processos Gerenciais:** planejamento, controle financeiro
+- 💰 **Finanças:** gestão acessível para micro e pequenas empresas
 
 ---
 
 ## 📂 Projetos em destaque
 
-- 🔍 [Sistema de controle financeiro para MEIs](#)
-- 🤖 [Automação de relatórios com IA](#)
-- 📊 [Dashboard interativo com dados reais](#)
+- 🔍 [Sistema de controle financeiro para MEIs](https://github.com/jeferson-data/meugestor-app)
+- 🤖 [Automação de relatórios com IA]([https://github.com/jeferson-data/relatorio_financeiro](https://github.com/jeferson-data/macros_desenvolvidas_grupo_BIG))
+- 📊 [Dashboard interativo com dados reais](https://github.com/jeferson-data/relatorio_financeiro)
+
 
 ---
 
