@@ -14,6 +14,26 @@ Transformo dados operacionais e financeiros em decisões estratégicas. Com 20+ 
 
 ---
 
+## 🧠 Insights de Negócio
+
+Ao longo da minha carreira em logística e operações, desenvolvi uma visão de negócio que vai além do código. Entendo como o frete é calculado e como os dados podem ser usados para otimizar custos.
+
+### O que eu entendo de logística:
+
+- **Cálculo de Frete:** Sei como o frete é composto (Frete-Peso, Frete-Valor, GRIS) e como cada variável impacta o custo final.
+- **GRIS (Gerenciamento de Risco e Seguro):** Entendo como funciona a taxa de risco e como ela é calculada.
+- **Frete Intraestadual vs. Interestadual:** Sei a diferença de custo entre rotas dentro e fora do estado.
+- **Piso Mínimo ANTT:** Conheço a regulamentação que define o valor mínimo de frete no Brasil.
+- **Otimização de Custos:** Sei identificar oportunidades de economia em rotas, cargas e negociações.
+
+### Como isso se aplica aos meus projetos:
+
+No meu projeto de [Cálculo de Frete](https://github.com/jeferson-data/calculo-frete), usei dados reais de e-commerce para treinar um modelo de Machine Learning que prevê o custo do frete. O diferencial é que **eu entendo o problema de negócio**, não só a parte técnica.
+
+**Exemplo de insight:** O modelo aprendeu que fretes entre estados diferentes são, em média, 3x mais caros. Isso não é só um número — é uma oportunidade de negociação com transportadoras.
+
+---
+
 ## 🛠️ Minhas Ferramentas
 
 | Categoria | Tecnologias |
