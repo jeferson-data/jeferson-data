@@ -2,7 +2,7 @@
 
 ### 🎯 Analista de Dados | Foco em Logística e Finanças
 
-Transformo dados operacionais e financeiros em decisões estratégicas. Com 15+ anos de experiência em logística (Grupo Big) e seguros (Claser/Apisul), combino visão de negócio com habilidades técnicas em SQL, Python e Power BI para reduzir custos e otimizar processos.
+Transformo dados operacionais e financeiros em decisões estratégicas. Com 20+ anos de experiência em logística (Grupo Big) e seguros (Claser/Apisul), combino visão de negócio com habilidades técnicas em SQL, Python e Power BI para reduzir custos e otimizar processos.
 
 ---
 
