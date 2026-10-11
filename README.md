@@ -29,23 +29,37 @@ Transformo dados operacionais e financeiros em decisões estratégicas. Com 15+ 
 
 Aqui estão os projetos que melhor demonstram minha capacidade de resolver problemas de negócio.
 
-### 1. [Análise de Sinistralidade em Seguros](link-do-repositorio)
-*   **Problema:** Identificar onde uma seguradora está perdendo dinheiro.
-*   **Solução:** Usei dados abertos da SUSEP e Python para calcular a taxa de sinistralidade por região e perfil de cliente.
-*   **Resultado:** Descobri que a região X tem 20% mais sinistros. Recomendei revisão de prêmios.
-*   **Tecnologias:** Python, Pandas, Matplotlib, SQL.
+### 1. [MeuGestor - SaaS de Gestão Financeira](https://github.com/jeferson-data/meugestor-app)
+*   **Problema:** Pequenas empresas não têm ferramentas acessíveis para controlar fluxo de caixa.
+*   **Solução:** Aplicação web completa com dashboard, movimentações, pagamentos e gestão de vendedores.
+*   **Resultado:** Produto pronto para o mercado, com modelo de assinatura e deploy na Vercel.
+*   **Tecnologias:** React, Supabase, Tailwind CSS, Recharts.
 
-### 2. [Otimização de Custos Logísticos](link-do-repositorio)
-*   **Problema:** Analisar o custo de frete e tempo de entrega de uma operação de e-commerce.
-*   **Solução:** Usei o dataset "Olist" (Kaggle) e Python para prever o custo do frete com base na distância e peso.
-*   **Resultado:** Criei um dashboard que mostra as rotas mais caras, sugerindo renegociação.
-*   **Tecnologias:** Python, Scikit-learn, Power BI.
+### 2. [Consolidador de Fluxo de Caixa](https://github.com/jeferson-data/consolidador_de_fluxo_de_caixa)
+*   **Problema:** Consolidação manual de receitas e despesas em planilhas Excel.
+*   **Solução:** Aplicação web que lê planilhas, consolida dados e gera dashboard interativo.
+*   **Resultado:** Redução de 80% no tempo gasto e eliminação de erros manuais.
+*   **Tecnologias:** Python, Streamlit, Pandas, OpenPyXL.
 
-### 3. [Consolidador de Fluxo de Caixa](link-do-repositorio)
-*   **Problema:** Automatizar a consolidação de fluxo de caixa para pequenas empresas.
-*   **Solução:** Script em Python que lê extratos bancários (CSV) e gera um relatório consolidado.
-*   **Resultado:** Redução de 80% do tempo gasto em tarefas manuais.
-*   **Tecnologias:** Python, Pandas, Excel.
+### 3. [Relatório Financeiro](https://github.com/jeferson-data/relatorio_financeiro)
+*   **Problema:** Falta de relatórios profissionais para apresentação a stakeholders.
+*   **Solução:** Sistema que calcula KPIs (ROI, liquidez, margem) e gera relatórios em PDF.
+*   **Resultado:** Automatização completa da geração de relatórios financeiros.
+*   **Tecnologias:** Python, Streamlit, Plotly, ReportLab.
+
+### 4. [Macros VBA - Grupo BIG](https://github.com/jeferson-data/macros_desenvolvidas_grupo_BIG)
+*   **Problema:** Cadastro manual e demorado de conferentes na expedição de hortifruti.
+*   **Solução:** Macros VBA que automatizam o cadastro e padronizam os dados.
+*   **Resultado:** Solução adotada em todos os centros de distribuição do Brasil.
+*   **Tecnologias:** VBA, Excel Avançado.
+
+---
+
+## 🎓 Trabalhos Acadêmicos (PUCRS)
+
+Meus trabalhos e exercícios da faculdade estão organizados na organização acadêmica:
+
+- [Repositórios da Faculdade](https://github.com/jeferson-pucrs) — Trabalhos e exercícios da PUCRS.
 
 ---
 
@@ -55,3 +69,7 @@ Estou em busca de oportunidades remotas (CLT, PJ ou Freelancer) nas áreas de An
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefe.gomes@outlook.com)
+
+---
+
+⭐ **Gostou do meu trabalho?** Conecte-se comigo no LinkedIn e vamos conversar!
